@@ -1,0 +1,36 @@
+
+R version 4.5.1 (2025-06-13 ucrt) -- "Great Square Root"
+Copyright (C) 2025 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Installing a package with the help of CRAN
+> install.packages("ggplot2")
+Installing package into 'C:/Users/tamil/AppData/Local/R/win-library/4.5'
+(as 'lib' is unspecified)
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/ggplot2_3.5.2.zip'
+Content type 'application/zip' length 5016901 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+package 'ggplot2' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\tamil\AppData\Local\Temp\Rtmpwh1nJ6\downloaded_packages
+> 
+> proc.time()
+   user  system elapsed 
+   0.65    0.18    4.12 
